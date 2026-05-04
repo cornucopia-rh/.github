@@ -1,4 +1,6 @@
-## Hi there 👋
+# Project Cornucopia
+
+## Welcome. Things are still getting setup, but feel free to look around and check things out.
 
 <!--
 
