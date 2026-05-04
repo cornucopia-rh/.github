@@ -1,2 +1,4 @@
 # .github
-This is the README.md repo!
+This is for configuring the organization!
+
+[Understand .github repo]([url](https://dev.to/jajera/understanding-the-github-repository-2fpj))
