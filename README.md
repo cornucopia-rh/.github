@@ -1,4 +1,7 @@
 # .github
-This is for configuring the organization!
+This repo is for configuration and general organization business!
 
-Hopefully this link can be helpful: [Understand the .github repository](https://dev.to/jajera/understanding-the-github-repository-2fpj)
+
+## Helpful Links:
+- [Understand the .github repository](https://dev.to/jajera/understanding-the-github-repository-2fpj)
+- [Adding Things](https://docs.github.com/en/communities)
